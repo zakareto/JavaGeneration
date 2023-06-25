@@ -1,3 +1,11 @@
+
+/*herencia en la poo
+ * 
+ * nos permite heredar atributos y metodos con la finalidad de reutilizar codigo y generar una relacion entre clases suoeriores(padres) y las subclases (hijos)
+ * 
+ * */
+
+
 package entidades;
 
 public class Empleado extends Persona{
